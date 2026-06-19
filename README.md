@@ -35,10 +35,13 @@ Open your terminal inside your `qmk_firmware` folder and run this command: qmk c
 
 3. Flash the RP2040
 
-1. Unplug the USB-C cable from your MyPad.
-2. Hold down the physical **BOOTSEL** button on the tiny XIAO board while plugging the cable back into your computer.
-3. A folder named **RPI-RP2** will pop up on your computer like a regular USB flash drive.
-4. Drag and drop the `.uf2` file right into that folder. <p>
+4. Unplug the USB-C cable from your MyPad.
+  
+5. Hold down the physical **BOOTSEL** button on the tiny XIAO board while plugging the cable back into your computer.
+
+6. A folder named **RPI-RP2** will pop up on your computer like a regular USB flash drive.
+
+7. Drag and drop the `.uf2` file right into that folder. <p>
 
 The drive will automatically close itself, and your MyPad is ready to go!
 
