@@ -33,7 +33,7 @@ Clone this repository, then copy or move the **`MyPad Firmware`** folder into yo
 Open your terminal inside your `qmk_firmware` folder and run this command: qmk compile -kb "MyPad Firmware" -km default <p>
 (Make sure to keep the quotation marks around the folder name in your terminal so it reads the space correctly!) This creates a file named `mypad_firmware_default.uf2`.
 
-3. Flash the RP2040 <p>
+3. Flash the RP2040
 
 1. Unplug the USB-C cable from your MyPad.
 2. Hold down the physical **BOOTSEL** button on the tiny XIAO board while plugging the cable back into your computer.
