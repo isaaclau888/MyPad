@@ -23,26 +23,6 @@ Thirdly, place the top part to combine with the bottom part. <p>
 Last but not least, place the keycaps on the switches. <p>
 <img width="765" height="498" alt="螢幕截圖 2026-06-20 上午4 35 57" src="https://github.com/user-attachments/assets/630b656d-721a-451c-b6e3-3f3c51bce57b" />
 
-## How can you use it?
-1. Install Arduino IDE:
-Download and install the latest Arduino IDE from the official Arduino website.
-2. Install ESP32 Board Core:
-Open Arduino IDE and go to File > Preferences. 
-In the Additional Boards Manager URLs field, paste this URL: 
-https://espressif.github.io/arduino-esp32/package_esp32_index.json 
-Click OK.
-Go to Tools > Board > Boards Manager, search for ESP32, and click Install.
-3. Select Your Board and Port:
-Go to Tools > Board > ESP32 and select AI Thinker ESP32-CAM.
-Plug your black burner programming base into your computer via a USB cable.
-Go to Tools > Port and select the correct port for your connected board.
-4. Upload the Code:
-Load your complete SignalEye.ino code into the workspace.
-Update the Wi-Fi SSID, password, and your personal Slack webhook path lines inside the script.
-Click the Upload arrow button in the top-left corner. After a few seconds, it will finish uploading!
-5. Fire It Up:
-Open your Serial Monitor (Tools > Serial Monitor), set the speed to 115200 baud, and press the physical Reset button on your board. Watch your smart doorbell connect to the network and trigger your first Slack alert! Yay!!!
-
 ## How to Install Firmware?
 
 1. Copy Folder to QMK
