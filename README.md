@@ -49,7 +49,7 @@ The drive will automatically close itself, and your MyPad is ready to go!
 I decided to make this because I want a custom keyboard that works like a Stream Deck.
 
 ## How I made it?
-I used Fusion 360 to make the case, VS Code and Terminal for the coding part, KiCAD for the PCB board and last but not least, the parts from the BOM.
+I used Fusion 360 to make the case, VS Code and Terminal for the coding part, KiCad for the PCB board and last but not least, the parts from the BOM.
 
 # Fallout Zine 
 <img width="4405" height="6250" alt="MyPad Fallout Zine" src="https://github.com/user-attachments/assets/a04dc668-1bd8-418b-a96e-9f1f3d41a9d8" />
