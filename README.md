@@ -51,5 +51,10 @@ I decided to make this because I want a custom keyboard that works like a Stream
 ## How I made it?
 I used Fusion 360 to make the case, VS Code and Terminal for the coding part, KiCad for the PCB board and last but not least, the parts from the BOM.
 
+# Schematic and PCB
+<img width="3508" height="2481" alt="MyPad Schematic" src="https://github.com/user-attachments/assets/bdf41fe3-e315-4ad6-a3d9-16f2b7a71548" />
+<img width="401" height="610" alt="螢幕截圖 2026-06-20 下午10 56 34" src="https://github.com/user-attachments/assets/e9ebb118-917d-4ef1-928d-ad41be581413" />
+
+
 # Fallout Zine 
 <img width="4405" height="6250" alt="MyPad Fallout Zine" src="https://github.com/user-attachments/assets/a04dc668-1bd8-418b-a96e-9f1f3d41a9d8" />
