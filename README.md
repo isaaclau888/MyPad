@@ -8,7 +8,7 @@ MyPad is a tiny, physical shortcut box for your desk that saves you from stretch
 
 ## How to build it?
 Please print all the 3D parts. <p>
-<img width="696" height="523" alt="螢幕截圖 2026-06-20 上午4 14 14" src="https://github.com/user-attachments/assets/d3f9818a-3477-4ece-ace0-324786beff03" />
+<img width="577" height="513" alt="螢幕截圖 2026-06-22 下午11 59 37" src="https://github.com/user-attachments/assets/16538181-7eb8-454f-96a5-77d7714ef69f" />
 
 # 3D Parts Assembly
 First, place the bottom part. <p>
@@ -17,7 +17,10 @@ First, place the bottom part. <p>
 Secondly, place the soldered PCB, which has all the parts(Seeed Studio XIAO RP2040, Cherry MX Switches, SSD1306 0.91 OLED 4pin 128x32, Rotary Encoder EC11E Switch Vertical H20mm, IN4148 switching diodes, through-hole DO-35), inside the bottom case. <p>
 <img width="840" height="550" alt="螢幕截圖 2026-06-20 上午4 34 25" src="https://github.com/user-attachments/assets/05fc515a-0288-4e29-bba0-a67f1d46c4f1" />
 
-Thirdly, place the top part to combine with the bottom part. <p>
+Thirdly, place the screws in the PCB holes and screw them into the bottom part.
+<img width="392" height="546" alt="螢幕截圖 2026-06-22 下午11 51 02" src="https://github.com/user-attachments/assets/e5814b33-ffc8-4c1a-a118-e9ae23d614dd" />
+
+Then, place the top part to combine with the bottom part. <p>
 <img width="840" height="546" alt="螢幕截圖 2026-06-20 上午4 34 57" src="https://github.com/user-attachments/assets/dcb264a3-2df3-415f-88e9-46f44c98b338" />
 
 Last but not least, place the keycaps on the switches. <p>
@@ -53,8 +56,7 @@ I used Fusion 360 to make the case, VS Code and Terminal for the coding part, Ki
 
 # Schematic and PCB
 <img width="3508" height="2481" alt="MyPad Schematic" src="https://github.com/user-attachments/assets/bdf41fe3-e315-4ad6-a3d9-16f2b7a71548" />
-<img width="401" height="610" alt="螢幕截圖 2026-06-20 下午10 56 34" src="https://github.com/user-attachments/assets/e9ebb118-917d-4ef1-928d-ad41be581413" />
-
+<img width="338" height="510" alt="螢幕截圖 2026-06-22 下午11 47 45" src="https://github.com/user-attachments/assets/0fce37ea-ceda-49bf-a5c4-945138e468c9" />
 
 # Fallout Zine 
 <img width="4405" height="6250" alt="MyPad Fallout Zine" src="https://github.com/user-attachments/assets/a04dc668-1bd8-418b-a96e-9f1f3d41a9d8" />
