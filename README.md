@@ -12,7 +12,7 @@ Please print all the 3D parts. <p>
 
 # 3D Parts Assembly
 First, place the bottom part. <p>
-<img width="774" height="500" alt="螢幕截圖 2026-06-20 上午4 15 17" src="https://github.com/user-attachments/assets/7268b6da-7737-4be1-b28f-7a6dd1bcd31c" />
+<img width="802" height="522" alt="螢幕截圖 2026-06-23 上午12 00 46" src="https://github.com/user-attachments/assets/f50efc18-cdfa-436a-967a-e62f30d00613" />
 
 Secondly, place the soldered PCB, which has all the parts(Seeed Studio XIAO RP2040, Cherry MX Switches, SSD1306 0.91 OLED 4pin 128x32, Rotary Encoder EC11E Switch Vertical H20mm, IN4148 switching diodes, through-hole DO-35), inside the bottom case. <p>
 <img width="840" height="550" alt="螢幕截圖 2026-06-20 上午4 34 25" src="https://github.com/user-attachments/assets/05fc515a-0288-4e29-bba0-a67f1d46c4f1" />
