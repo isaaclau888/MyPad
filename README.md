@@ -8,23 +8,20 @@ MyPad is a tiny, physical shortcut box for your desk that saves you from stretch
 
 ## How to build it?
 Please print all the 3D parts. <p>
-<img width="577" height="513" alt="螢幕截圖 2026-06-22 下午11 59 37" src="https://github.com/user-attachments/assets/16538181-7eb8-454f-96a5-77d7714ef69f" />
+<img width="687" height="591" alt="螢幕截圖 2026-06-25 下午7 32 03" src="https://github.com/user-attachments/assets/77073eb0-cadf-4cc1-ad34-52ed1c5da282" />
 
 # 3D Parts Assembly
 First, place the bottom part. <p>
-<img width="802" height="522" alt="螢幕截圖 2026-06-23 上午12 00 46" src="https://github.com/user-attachments/assets/f50efc18-cdfa-436a-967a-e62f30d00613" />
+<img width="622" height="404" alt="螢幕截圖 2026-06-25 下午7 37 55" src="https://github.com/user-attachments/assets/61c2a1cd-c9a4-461c-a957-bfa4cd6962cb" />
 
 Secondly, place the soldered PCB, which has all the parts(Seeed Studio XIAO RP2040, Cherry MX Switches, SSD1306 0.91 OLED 4pin 128x32, Rotary Encoder EC11E Switch Vertical H20mm, IN4148 switching diodes, through-hole DO-35), inside the bottom case. <p>
-<img width="840" height="550" alt="螢幕截圖 2026-06-20 上午4 34 25" src="https://github.com/user-attachments/assets/05fc515a-0288-4e29-bba0-a67f1d46c4f1" />
-
-Thirdly, place the screws in the PCB holes and screw them into the bottom part.
-<img width="392" height="546" alt="螢幕截圖 2026-06-22 下午11 51 02" src="https://github.com/user-attachments/assets/e5814b33-ffc8-4c1a-a118-e9ae23d614dd" />
+<img width="728" height="480" alt="螢幕截圖 2026-06-25 下午7 38 59" src="https://github.com/user-attachments/assets/5de635a1-a325-4812-9be5-2d1b2e2c5a59" />
 
 Then, place the top part to combine with the bottom part. <p>
-<img width="840" height="546" alt="螢幕截圖 2026-06-20 上午4 34 57" src="https://github.com/user-attachments/assets/dcb264a3-2df3-415f-88e9-46f44c98b338" />
+<img width="727" height="486" alt="螢幕截圖 2026-06-25 下午7 40 54" src="https://github.com/user-attachments/assets/a6791ad8-f44e-44e1-a54d-a7326a559b34" />
 
 Last but not least, place the keycaps on the switches. <p>
-<img width="765" height="498" alt="螢幕截圖 2026-06-20 上午4 35 57" src="https://github.com/user-attachments/assets/630b656d-721a-451c-b6e3-3f3c51bce57b" />
+<img width="727" height="492" alt="螢幕截圖 2026-06-25 下午7 39 18" src="https://github.com/user-attachments/assets/f90aadc7-dd58-497a-8019-d34776cb6d94" />
 
 ## How to Install Firmware?
 
