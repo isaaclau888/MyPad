@@ -11,19 +11,26 @@ Please print all the 3D parts. <p>
 <img width="634" height="518" alt="螢幕截圖 2026-06-26 下午6 35 07" src="https://github.com/user-attachments/assets/8bc0b60d-edeb-4829-a220-4356ec2df615" />
 
 # 3D Parts Assembly
-First, place the bottom part. <p>
-<img width="712" height="462" alt="螢幕截圖 2026-06-26 下午6 30 35" src="https://github.com/user-attachments/assets/bdfad61f-dfb8-45ed-9e8b-ce274b374081" />
+Step 1: Solder the Base Electronics
+Solder all base components directly onto your PCB. This includes the Seeed Studio XIAO RP2040, the SSD1306 OLED Screen, the IN4148 Diodes, and the EC11 Rotary Encoder. Ensure they sit flat against the PCB surface before soldering.
+<img width="593" height="373" alt="螢幕截圖 2026-06-26 下午11 59 48" src="https://github.com/user-attachments/assets/c91a603a-c8f1-4791-b648-7a51fa3eff78" />
 
-Secondly, place the soldered PCB, which has all the soldered parts(Seeed Studio XIAO RP2040, SSD1306 0.91 OLED 4pin 128x32, Rotary Encoder EC11E Switch Vertical H20mm, IN4148 switching diodes, through-hole DO-35), inside the bottom case. <p>
-<img width="717" height="466" alt="螢幕截圖 2026-06-26 下午6 31 28" src="https://github.com/user-attachments/assets/d7da0632-a908-43ec-b54b-7607c3c13af9" />
+Step 2: Prepare the Top Plate
+Take your top case part (which acts as your top switch plate). Push all of your mechanical switches into the 14.0mm x 14.0mm square cutouts from the top side until they click tightly into place.
+<img width="732" height="437" alt="螢幕截圖 2026-06-27 上午12 02 21" src="https://github.com/user-attachments/assets/67acf27d-bf21-40e1-b44d-909edfdab9dc" />
 
+Step 3: Combine and Solder the Switches
+Align the metal pins of the switches (now held in the top plate) with the empty switch holes on your PCB. Press the top plate assembly firmly down onto the PCB until the bottom of the switches rest flush against the PCB. Flip the assembly over and solder the switch pins from the back of the PCB.
+<img width="733" height="432" alt="螢幕截圖 2026-06-27 上午12 03 11" src="https://github.com/user-attachments/assets/144372b5-502d-4f7a-8e17-17eb829dd6a6" />
 
-Then, place the top part to combine with the bottom part. <p>
-<img width="713" height="475" alt="螢幕截圖 2026-06-26 下午6 31 49" src="https://github.com/user-attachments/assets/b5f3824b-63f5-4c47-91ed-9c058e001ff0" />
+Step 4: Mount into the Bottom Case
+Place your fully soldered core assembly into the bottom case. Make sure the Seeed Studio XIAO's USB-C port aligns perfectly with the cutout pocket in the case wall, then secure the top and bottom halves together using your housing screws.
+<img width="736" height="485" alt="螢幕截圖 2026-06-27 上午12 03 58" src="https://github.com/user-attachments/assets/272d711a-0ef1-4794-9037-549585f7fee1" />
 
+Step 5: Final Touches
+Push your keycaps onto the switch stems. Your MyPad is complete!
+<img width="735" height="488" alt="螢幕截圖 2026-06-27 上午12 04 48" src="https://github.com/user-attachments/assets/86907ea0-4be0-432d-b425-f9dac35d90a6" />
 
-Last but not least, place the switches and keycaps on the PCB board. <p>
-<img width="712" height="475" alt="螢幕截圖 2026-06-26 下午6 32 19" src="https://github.com/user-attachments/assets/a7ccee7a-6460-404c-9a1a-1c43a17fe988" />
 
 ## How to Install Firmware?
 
