@@ -15,7 +15,8 @@ First, place the bottom part. <p>
 <img width="712" height="462" alt="螢幕截圖 2026-06-26 下午6 30 35" src="https://github.com/user-attachments/assets/bdfad61f-dfb8-45ed-9e8b-ce274b374081" />
 
 Secondly, place the soldered PCB, which has all the soldered parts(Seeed Studio XIAO RP2040, SSD1306 0.91 OLED 4pin 128x32, Rotary Encoder EC11E Switch Vertical H20mm, IN4148 switching diodes, through-hole DO-35), inside the bottom case. <p>
-<img width="717" height="466" alt="螢幕截圖 2026-06-26 下午6 31 28" src="https://github.com/user-attachments/assets/3eac96ac-102a-4da6-8783-d50637af23c6" />
+<img width="717" height="466" alt="螢幕截圖 2026-06-26 下午6 31 28" src="https://github.com/user-attachments/assets/d7da0632-a908-43ec-b54b-7607c3c13af9" />
+
 
 Then, place the top part to combine with the bottom part. <p>
 <img width="713" height="475" alt="螢幕截圖 2026-06-26 下午6 31 49" src="https://github.com/user-attachments/assets/b5f3824b-63f5-4c47-91ed-9c058e001ff0" />
