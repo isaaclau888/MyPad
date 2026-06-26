@@ -1658,6 +1658,7 @@
 		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "9046928e-16ce-4bfb-8829-59cb04f8cc30")
 		(at 121.54 99.23)
@@ -2491,7 +2492,7 @@
 			(at -0.125 -10.25 270)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "2f269a66-bfe8-4be1-a4b9-99df8b5d6475")
+			(uuid "2802efab-2e67-4ecc-8bd2-352782e8d2af")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -2503,7 +2504,7 @@
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "fd8fe9e8-152f-4c9b-8581-229962d61c3b")
+			(uuid "34da6f0c-8e79-492a-bf03-b7e71f3fdc46")
 			(effects
 				(font
 					(size 0.635 0.635)
@@ -2516,7 +2517,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9e07422a-9c11-41ca-93cc-51d4caa2134b")
+			(uuid "22781a1c-fdb2-4c4a-99d4-245db7494d10")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2529,7 +2530,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f3e5eee2-d704-4cb4-bce5-ae8cae1c0dec")
+			(uuid "01a7c014-4060-40cc-90ff-265f4418660f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6614,7 +6615,7 @@
 	)
 	(gr_rect
 		(start 106 56)
-		(end 173 159)
+		(end 173 158)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -6635,8 +6636,8 @@
 		(uuid "392cbbb9-0d3c-45b1-bd56-32a37abae823")
 	)
 	(gr_circle
-		(center 169.5 155)
-		(end 172 155)
+		(center 169.5 152.5)
+		(end 172 152.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -6657,8 +6658,8 @@
 		(uuid "af281582-e9d0-42c8-86da-563eed238a2a")
 	)
 	(gr_circle
-		(center 110 155)
-		(end 112.5 155)
+		(center 110 152.5)
+		(end 112.5 152.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -6668,7 +6669,7 @@
 		(uuid "fdc2929d-1bc1-4894-93b0-e4cbf56de70f")
 	)
 	(gr_text "MyPad\nMade by Isaac Lau\n(17, Hong Kong)"
-		(at 108.5 150.5 0)
+		(at 108.5 148.5 0)
 		(layer "F.Cu")
 		(uuid "5358207f-ad9c-44bc-82cd-62c68be56568")
 		(effects
