@@ -61,7 +61,7 @@ I used Fusion 360 to make the case, VS Code and Terminal for the coding part, Ki
 
 # Schematic and PCB
 <img width="3508" height="2481" alt="MyPad Schematic" src="https://github.com/user-attachments/assets/bdf41fe3-e315-4ad6-a3d9-16f2b7a71548" />
-<img width="338" height="510" alt="螢幕截圖 2026-06-22 下午11 47 45" src="https://github.com/user-attachments/assets/0fce37ea-ceda-49bf-a5c4-945138e468c9" />
+<img width="904" height="1350" alt="image" src="https://github.com/user-attachments/assets/4fbce4f2-b752-4fc7-9876-57e792af5feb" />
 
 # BOM
 
