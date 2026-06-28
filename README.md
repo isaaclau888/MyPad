@@ -1,5 +1,6 @@
 # MyPad
-<img width="1920" height="1080" alt="MyPad_2026-Jun-19_06-44-27AM-000_CustomizedView24469008913_png" src="https://github.com/user-attachments/assets/c14ba546-884d-4e9b-bed3-4cd9e979e282" />
+<img width="1427" height="793" alt="IMG_3893" src="https://github.com/user-attachments/assets/b3178990-44bb-413f-8b58-723989e60940" />
+
 
 MyPad is a tiny, pocket-sized macro pad I designed to clear up my desk and speed up my workflow. It has 9 mechanical keys, a vertical screen, and a dial knob, all packed into a super clean layout inspired by the classic look of the original 2001 Apple iPod. Instead of having a massive grid of keys, MyPad relies on clever software. By using multiple code layers and custom shortcuts, this little 3x3 pad can handle everything from jumping through complex lines of code in VS Code to tweaking 3D models in Fusion 360, all without my hand ever leaving the controller.
 
@@ -79,4 +80,5 @@ I used Fusion 360 to make the case, VS Code and Terminal for the coding part, Ki
 |   |                                           |    |           |                 |Total     |        |$141.53       |$122.25       |$18.06        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                      |
 
 # Fallout Zine 
-<img width="4405" height="6250" alt="MyPad Fallout Zine" src="https://github.com/user-attachments/assets/a04dc668-1bd8-418b-a96e-9f1f3d41a9d8" />
+<img width="4405" height="6250" alt="MyPad Fallout Zine" src="https://github.com/user-attachments/assets/5ffb7425-fb5d-45fd-8981-7320aeeb0fdf" />
+
